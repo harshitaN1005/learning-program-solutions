@@ -1,0 +1,45 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  background-color: #f8f8f8;
+  min-height: 100vh;
+}
+
+/* Main heading */
+h1 {
+  color: #1a73e8;
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+/* Section headings */
+h2 {
+  color: #333;
+  font-size: 1.4rem;
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+/* Unordered list styling */
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 auto;
+  max-width: 300px;
+  text-align: left;
+}
+
+/* List item styling */
+li {
+  background: #ffffff;
+  padding: 8px 12px;
+  margin: 5px 0;
+  border-radius: 8px;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* Hover effect for list items */
+li:hover {
+  background: #f1f1f1;
+}
